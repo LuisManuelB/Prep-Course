@@ -1,0 +1,15 @@
+1. En un archivo de texto separado que debes crear, escribe explicando los siguientes conceptos como si se lo estuviera explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+- Variables:
+    Las variables son espacios donde podemos guardar datos para usarlos después.
+
+- Instrumentos de cuerda (strings):
+    es un tipo de dato, el cual se caracteriza por ser un caracter o cadena de caracteres.
+
+- Funciones (argumentos, return):
+    Las funciones son bloques de código que pueden ser reutilizados dentro de un programa o software.
+
+- Declaraciones if:
+    Controlan el flujo dentro del código, lo que a su vez genera lógica dentro del mismo. 
+
+- Valores booleanos (true , false):
+    Ayudan a determinar si una declaración o condición dentro del código es verdadera o falsa.
