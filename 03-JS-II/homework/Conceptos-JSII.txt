@@ -1,0 +1,12 @@
+1. En un archivo de texto separado que debes crear, escribe explicando los siguientes conceptos como si se lo estuviera explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+    FOR:
+        El ciclo for sirve para simplificar código repetitivo, ya que nos ayuda a automatizar software, que de otra manera nos tomaría mucho tiempo escribirlo.
+    
+    &&:
+        Es un operador lógico que nos ayuda a evaluar ambas expresiones y nos devuelve verdadero si ambas expresiones son TRUE. En cambio si una (o ambas) de ellas son falsa(s) devolverá FALSE.
+
+    ||:
+        Es un operador lógico que determinará si una de las expresiones es TRUE. Si una (o ambas) de las experiones es TRUE devolverá TRUE. Si ambas expresiones son FALSE devolverá FALSE.
+
+    !:
+        En pocas palabras, es un operador lógico que lleva la verdad a la falsedad y viceversa.    
