@@ -1,0 +1,16 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+    - Objetos
+        Un objeto es una colección de propiedades, y una propiedad es una asociación entre un nombre (o clave) y un valor.
+
+    - Propiedades
+        Una propiedad está dentro de un objeto, y contiene dentro de ella una clave y un valor.
+    
+    - Métodos
+        Un método es lo mismo que una función. Solo que al usarse dentro de un objeto se denomina método y se invoca con notación de puntos y paréntesis finales.
+
+    - Bucle for...in
+        Sirve para iterar cada propiedad dentro del objeto.
+
+    - Notación de puntos vs notación de corchetes
+        Se usan para lo mismo, pero tienen diferencias en su sintaxis para acceder a valores o asignarlos. Por ejemplo, con la notación de puntos podemos llamar al nombre del objeto, un punto y el nombre de la clave. Y con la notación de corchetes se puede llamar a cada clave envolviéndola con comillas.
+    
